@@ -320,67 +320,67 @@ items | See more detail in Reference &gt; Item Object</p>
 </thead>
 <tbody>
 <tr>
-<td>TP1</td>
+<td>EMST (<s>TP1</s>)</td>
 <td>EMS</td>
 </tr>
 <tr>
-<td>TP2</td>
+<td>REGT (<s>TP2</s>)</td>
 <td>Registered</td>
 </tr>
 <tr>
-<td>TP3</td>
+<td>SMPI (<s>TP3</s>)</td>
 <td>Int’l Small Packet-Air</td>
 </tr>
 <tr>
-<td>TP4</td>
+<td>SMPT (<s>TP4</s>)</td>
 <td>Parcel</td>
 </tr>
 <tr>
-<td>TP5</td>
+<td>REGI (<s>TP5</s>)</td>
 <td>Registered Int’l Small Packet-Air</td>
 </tr>
 <tr>
-<td>TP6</td>
+<td>EMSI (<s>TP6</s>)</td>
 <td>International EMS</td>
 </tr>
 <tr>
-<td>DH1</td>
+<td>DHLI (<s>DH1</s>)</td>
 <td>DHL Express</td>
 </tr>
 <tr>
-<td>SY1</td>
+<td>WHPU (<s>SY1</s>)</td>
 <td>Warehouse Pickup</td>
 </tr>
 <tr>
-<td>AL1</td>
+<td>ALPH (<s>AL1</s>)</td>
 <td>Alpha</td>
 </tr>
 <tr>
-<td>KR1</td>
+<td>KERR (<s>KR1</s>)</td>
 <td>KERRY</td>
 </tr>
 <tr>
-<td>OF1</td>
+<td>MESS (<s>OF1</s>)</td>
 <td>MESSENGER</td>
 </tr>
 <tr>
-<td>SP1</td>
+<td>SHOP (<s>SP1</s>)</td>
 <td>Shoppee (pickup)</td>
 </tr>
 <tr>
-<td>LZ1</td>
+<td>LAZA (<s>LZ1</s>)</td>
 <td>LAZADA (pickup)</td>
 </tr>
 <tr>
-<td>ES1</td>
+<td>11ST (<s>ES1</s>)</td>
 <td>11street (pickup)</td>
 </tr>
 <tr>
-<td>SS1</td>
+<td>SEAS (<s>SS1</s>)</td>
 <td>Season (pickup)</td>
 </tr>
 <tr>
-<td>DHC</td>
+<td>DHLT (<s>DHC</s>)</td>
 <td>DHL TH</td>
 </tr>
 </tbody>
